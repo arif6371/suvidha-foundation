@@ -1,6 +1,6 @@
 ---
 
-# Suvidha Foundation - Offer Letter Generation Portal
+# Suvidha Foundation - Admin Portal
 
 ## Overview
 
